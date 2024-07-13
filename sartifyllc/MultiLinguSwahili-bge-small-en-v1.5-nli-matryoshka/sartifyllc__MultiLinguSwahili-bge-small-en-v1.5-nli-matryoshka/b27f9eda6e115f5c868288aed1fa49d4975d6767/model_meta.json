@@ -1,0 +1,1 @@
+{"name": "sartifyllc/MultiLinguSwahili-bge-small-en-v1.5-nli-matryoshka", "revision": "b27f9eda6e115f5c868288aed1fa49d4975d6767", "release_date": null, "languages": [], "n_parameters": null, "memory_usage": null, "max_tokens": null, "embed_dim": null, "license": null, "open_source": null, "similarity_fn_name": null, "framework": ["Sentence Transformers"], "loader": null}
